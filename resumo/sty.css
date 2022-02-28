@@ -1,0 +1,38 @@
+body{
+
+background: rgb(0, 217, 255);
+
+}
+header {
+text-align: center;
+font: 15pt arial;
+color: white;
+
+}
+select#tab{
+    width: 150px;
+    
+}
+section{
+background: white;
+width: 500px;
+height: 450px;
+box-shadow: 5px 5px 10px black;
+border-radius: 25px;
+margin: auto;
+font: 50pt;
+
+}
+footer{
+text-align: center;
+padding: 15px;
+}
+div{
+    padding-left: 15px;
+   padding: 8px;
+    font: 15pt arial;
+}
+div#res{
+    font: 15px arial;
+}
+
